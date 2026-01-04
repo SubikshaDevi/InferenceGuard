@@ -1,0 +1,5 @@
+.env
+/env
+agent_logs.jsonl
+/__pycache__
+
