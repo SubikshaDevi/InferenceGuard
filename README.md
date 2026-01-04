@@ -48,7 +48,7 @@ It doesn't just run the agent; it **watches** the agent, **grades** its reasonin
 
 A high-throughput pipeline designed for scale, ensuring zero latency impact on the user experience.
 
--- Architecture diagram--
+![InferenceGuard Architecture](InferenceGuard%20Architecture.png)
 
 
 ### 🧩 Tech Stack
