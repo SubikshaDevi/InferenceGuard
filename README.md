@@ -35,7 +35,7 @@ It doesn't just run the agent; it **watches** the agent, **grades** its reasonin
 
 ## 📸 Dashboard Preview
 
-*(Add your Grafana Screenshot here - e.g., `![Dashboard](docs/dashboard_screenshot.png)`)*
+![Dashboard](InferenceGuard_Dashboard.gif)
 
 **Key Visualizations:**
 * **The Trust Gauge:** Real-time score (0-100%) of how often the Agent follows tool outputs vs. hallucinating.
